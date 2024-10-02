@@ -1,0 +1,14 @@
+<% Controle de fluxo (if, for,...) %>
+<%= Imprime escapando caracteres %>
+<%- Imprime sem escapar caracteres %>
+<%# Comentário %>
+<%- include('CAMINHO/ARQUIVO'); %>
+
+<!--   
+    <h1>
+      <%= titulo %> <br>
+      <% numeros.forEach(num => { %>
+      <%= num  %> <br>
+      <% }); %>
+    </h1>
+-->
